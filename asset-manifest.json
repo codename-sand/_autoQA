@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/autoQA/static/css/main.9f308821.css",
+    "main.js": "/autoQA/static/js/main.9c4d2113.js",
+    "static/media/PretendardVariable.woff2": "/autoQA/static/media/PretendardVariable.4097c3a83ad9ffa07942.woff2",
+    "index.html": "/autoQA/index.html",
+    "static/media/ico_swiper_prev.svg": "/autoQA/static/media/ico_swiper_prev.bb8ef4293b71cbeb6093.svg",
+    "static/media/ico_swiper_next.svg": "/autoQA/static/media/ico_swiper_next.5c13082bd5eb9bac698f.svg",
+    "main.9f308821.css.map": "/autoQA/static/css/main.9f308821.css.map",
+    "main.9c4d2113.js.map": "/autoQA/static/js/main.9c4d2113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f308821.css",
+    "static/js/main.9c4d2113.js"
+  ]
+}
